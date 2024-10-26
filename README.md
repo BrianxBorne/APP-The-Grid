@@ -13,7 +13,7 @@
 To explore *The Grid*, you can download the project files from this repository:
 
 - **Android App Bundle:** [The Grid App Bundle (.aab)](https://github.com/BrianxBorne/The-Grid-APP/tree/main/AAB)
-- **APK:** [Download APK](link-to-your-apk-file)
+- **APK:** [Download APK](https://github.com/BrianxBorne/The-Grid-APP/tree/main/APK)
 
 ### Prerequisites
 - MIT App Inventor account (optional, for making your own modifications).
@@ -28,14 +28,5 @@ We welcome contributions from developers and AI enthusiasts! If you are interest
 - Prompt Engineering
 - APK Editor
 
-## License
-This project is open-source and available under the [MIT License](link-to-license-file).
-
 ## Contact
 For inquiries or suggestions, feel free to contact me at [brianxborne@gmail.com](mailto:brianxborne@gmail.com).
-
----
-
-### Instructions for Use
-- Replace `link-to-your-aab-file` and `link-to-your-apk-file` with the actual links once you upload your files to GitHub.
-- You can also add additional sections if needed, such as a "Roadmap" or "Known Issues" section.
