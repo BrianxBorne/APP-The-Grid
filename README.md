@@ -12,7 +12,7 @@
 ## Getting Started
 To explore *The Grid*, you can download the project files from this repository:
 
-- **Android App Bundle:** [The Grid App Bundle (.aab)](link-to-your-aab-file)
+- **Android App Bundle:** [The Grid App Bundle (.aab)](https://github.com/BrianxBorne/The-Grid-APP/tree/main/AAB)
 - **APK:** [Download APK](link-to-your-apk-file)
 
 ### Prerequisites
